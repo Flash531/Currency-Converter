@@ -16,10 +16,11 @@ A simple web app that converts currencies using a live API.
 
 ## Screenshot
 
-![App Preview](screenshots/app-preview.png)
+![App Preview](app-preview.png)
 
 ## How to Run
 
 1. Clone the repo:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/Flash531/Currency-Converter.git
+   ```
