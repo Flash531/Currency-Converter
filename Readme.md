@@ -2,6 +2,8 @@
 
 A simple web app that converts currencies using a live API.
 
+Live Demo: https://currency-converter-qdu7.onrender.com/
+
 ## Features
 - Convert between multiple currencies  
 - Live exchange rates  
